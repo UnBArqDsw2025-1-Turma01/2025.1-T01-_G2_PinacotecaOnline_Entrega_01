@@ -1,0 +1,17 @@
+name: Documentação
+description: Registre uma nova issue de documentação para Pinacoteca.
+title: "[DOC] - <título breve da atividade>"
+projects: ["UnBArqDsw2025-1-Turma01/1"]
+body:
+  - type: textarea
+    id: about_document
+    attributes:
+      label: O que deve ser feito nesta seção da documentação?
+      description: Descreva aqui os detalhes do que deve ser escrito na documentação.
+    validations:
+      required: true
+  - type: textarea
+    id: obs_area
+    attributes:
+      label: Existe alguma observação importante para a documentação?
+      description: Descreva aqui pontos que devem ser considerados na elaboração da documentação.
