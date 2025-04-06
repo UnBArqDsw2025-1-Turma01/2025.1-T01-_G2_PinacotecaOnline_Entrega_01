@@ -6,18 +6,13 @@
 
 <!-- Título centralizado -->
 <div align="center">
-  <h2>Bem-vindo ao nosso repositório! </h2>
-</div>
-
-<!-- Título centralizado -->
-<div align="center">
   <h2>Pinacoteca Online </h2>
 </div>
 <!-- Título centralizado -->
 <div align="center">
   <h2>🎯 Objetivos </h2>
 </div>
-• Pinacoteca Online é um projeto em constante evolução, vinculado à disciplina "Arquitetura e Desenho de Software". Seu objetivo principal é proporcionar uma experiência digital interativa para explorar obras de arte em uma pinacoteca virtual. A plataforma permite que os usuários acessem uma vasta coleção de pinturas, esculturas e outras formas de arte, com descrições detalhadas e ferramentas de navegação imersiva. O projeto busca democratizar o acesso à arte e promover a apreciação cultural através de tecnologias web modernas. 🚀🎨
+• Pinacoteca Online é um projeto em constante evolução, desenvolvido no contexto da disciplina "Arquitetura e Desenho de Software". Seu principal objetivo é proporcionar uma experiência digital interativa para a exploração de pinturas em uma pinacoteca virtual. A plataforma oferece acesso a uma ampla coleção de obras pictóricas, acompanhadas de descrições detalhadas e ferramentas de navegação imersiva. O projeto busca democratizar o acesso à arte e incentivar a apreciação cultural por meio de tecnologias web modernas. 🚀🎨
 
 <!-- Título centralizado -->
 <div align="center">
@@ -26,7 +21,7 @@
 
 Este projeto oferece as seguintes funcionalidades:
 
-• **Exploração de Obras de Arte**: Os usuários podem visualizar uma coleção digital de pinturas, esculturas e outras formas de arte disponíveis na Pinacoteca Online.
+• **Exploração de Obras de Arte**: Os usuários podem visualizar uma coleção digital de pinturas disponíveis na Pinacoteca Online.
 
 • **Informações Detalhadas**: Cada obra possui descrições completas, incluindo informações sobre o artista, período histórico, estilo e técnica utilizada.
 
@@ -43,7 +38,7 @@ Este projeto oferece as seguintes funcionalidades:
 Esses são os nossos pré-requisitos, eles garantem uma base sólida para colaboração, ajudando a evitar erros e facilitando a contribuição:
 
 - [NODE.JS](https://nodejs.org/) Docsify pode ser usado sem Node.js, mas o Node.js facilita a instalação e a execução de um servidor local.
-- [DOCSIFY](https://docsify.js.org) É ultilizado para geração do site estático do projeto
+- [DOCSIFY](https://docsify.js.org) É utilizado para a documentação do projeto, sendo responsável pela geração do site estático.
 
 <!-- Adiciona a funçao de copiar o link do repositorio -->
 ### 2. 📍 Clonar o Repositório
@@ -117,17 +112,72 @@ link nosso projeto aqui
   <h2>👩‍💻 Contribuidores </h2>
 </div> 
 <!-- Foto dos participantes do grupo -->
-<div align="center"> 
- <img src="https://github.com/xGabrielCv.png" width="80"/>
-<img src="https://github.com/alanagabriele.png" width="80" />
-<img src="https://github.com/Danizelle.png" width="80" />
-<img src="https://github.com/DaviRogs.png" width="80" />
-<img src="https://github.com/fsousac.png" width="80" />
-<img src="https://github.com/LeanArs.png" width="80" />
-<img src="https://github.com/akaeboshi.png" width="80" />
-<img src="https://github.com/m4rllon.png" width="80" />
-<img src="https://github.com/mateuscavati.png" width="80" />
-<img src="https://github.com/renantfm4.png" width="80" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/xGabrielCv">
+          <img src="https://github.com/xGabrielCv.png" width="80"/><br/>
+          <sub><b>Jésus</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/alanagabriele">
+          <img src="https://github.com/alanagabriele.png" width="80"/><br/>
+          <sub><b>Alana</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Danizelle">
+          <img src="https://github.com/Danizelle.png" width="80"/><br/>
+          <sub><b>Danielle</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/DaviRogs">
+          <img src="https://github.com/DaviRogs.png" width="80"/><br/>
+          <sub><b>Davi</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/fsousac">
+          <img src="https://github.com/fsousac.png" width="80"/><br/>
+          <sub><b>Felipe</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LeanArs">
+          <img src="https://github.com/LeanArs.png" width="80"/><br/>
+          <sub><b>Leandro</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/akaeboshi">
+          <img src="https://github.com/akaeboshi.png" width="80"/><br/>
+          <sub><b>Lucas</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/m4rllon">
+          <img src="https://github.com/m4rllon.png" width="80"/><br/>
+          <sub><b>Marllon</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mateuscavati">
+          <img src="https://github.com/mateuscavati.png" width="80"/><br/>
+          <sub><b>Mateus</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/renantfm4">
+          <img src="https://github.com/renantfm4.png" width="80"/><br/>
+          <sub><b>Renan</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 <div align="center">
@@ -135,28 +185,3 @@ link nosso projeto aqui
 </div>
 
 ### • A documentação do projeto pode ser encontrada clicando [AQUI]().
-
-<div align="center">
-  <h2>©️ Licença </h2>
-</div>
-
-
-
-<!-- Criador e licença -->
-### FEITO POR: [xGabrielCv](https://github.com/xGabrielCv)
-<!-- Icons das ferramentas e linguagens ultilizadas -->
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
