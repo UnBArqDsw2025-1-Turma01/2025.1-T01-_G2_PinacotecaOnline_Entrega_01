@@ -184,4 +184,4 @@ link nosso projeto aqui
   <h2>📄 Documentação </h2>
 </div>
 
-### • A documentação do projeto pode ser encontrada clicando [AQUI]().
+### • A documentação do projeto pode ser encontrada clicando [AQUI](https://unbarqdsw2025-1-turma01.github.io/2025.1-T01-_G2_PinacotecaOnline_Entrega_01/#/).
