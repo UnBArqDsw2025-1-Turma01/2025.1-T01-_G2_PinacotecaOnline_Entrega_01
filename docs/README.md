@@ -23,19 +23,21 @@
 Pinacoteca Online é um projeto em constante evolução, desenvolvido no contexto da disciplina "Arquitetura e Desenho de Software". Seu principal objetivo é proporcionar uma experiência digital interativa para a exploração de pinturas em uma pinacoteca virtual. A plataforma oferece acesso a uma ampla coleção de obras pictóricas, acompanhadas de descrições detalhadas e ferramentas de navegação imersiva. O projeto busca democratizar o acesso à arte e incentivar a apreciação cultural por meio de tecnologias web modernas. 🚀🎨
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
-
+Abaixo são apresentados exemplos de artefatos produzidos na entrega 01
 ### Mapa Mental
+![Mapa mental](../assets/images/Mapa-mental-Pinacoteca.png)
 
 ### RichPicture
+![RichPicture](../assets/images/Rich-Picture-Pinacoteca.png)
 
 ### Storyboard
+![Storyboard](../assets/images/StoryBoard.jpg)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(x) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
@@ -46,4 +48,5 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 | Versão | Data       | Descrição           | Autor(es)                | Revisor(es)       | Detalhes da Revisão               |
 |--------|------------|---------------------|--------------------------|-------------------|-----------------------------------|
-| 1.0    | 08/04/2025 | Criação do documento| Jésus Gabriel | Leandro Almeida | Artefato corrigido e revisado.    |
+| 1.0    | 08/04/2025 | Criação do documento| Jésus Gabriel | Leandro Almeida / Davi Rodrigues| Documento corrigido e revisado.    |
+| 1.1    | 10/04/2025 | Adição dos Artefatos| Jésus Gabriel| Leandro Almeida / Davi Rodrigues| Artefato corrigido e revisado.    |
