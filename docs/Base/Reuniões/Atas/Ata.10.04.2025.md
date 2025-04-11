@@ -3,8 +3,8 @@
 **Horário de Início:** 21:00  
 **Duração:** 1 hora  
 **Participantes:** Alana Gabriele Amorim Silva, Danielle Rodrigues Silva, Davi Rodrigues da Rocha, Felipe de Sousa Coelho, Jésus Gabriel, Leandro Almeida Rocha Santos, Lucas Heler Lopes, Mateus Cavalcante de Sousa e Renan Araújo  
-**Ausentes:** Marllon (será inteirado via gravação/WhatsApp)
-
+**Ausentes:** Marllon (será inteirado via gravação/WhatsApp) <br>
+**Gravação:** [Clique aqui](https://drive.google.com/file/d/1mgwMRwl9K8QcF9-8dxXQUbigKWNeiCWZ/view?usp=drive_link)
 ---
 
 ## 1. Apresentação dos Resultados dos Testes de Usabilidade

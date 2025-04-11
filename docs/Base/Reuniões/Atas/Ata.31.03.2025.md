@@ -3,8 +3,8 @@
 **Horário de Início:** 20:30  
 **Duração:** Aproximadamente 45 minutos  
 **Participantes:** Alana Gabriele Amorim Silva, Danielle Rodrigues Silva, Davi Rodrigues da Rocha, Felipe de Sousa Coelho, Jésus Gabriel, Leandro Almeida Rocha Santos, Lucas Heler Lopes, Mateus Cavalcante de Sousa e Renan Araújo  
-**Ausentes:** Marllon (será inteirado via gravação/WhatsApp)
-
+**Ausentes:** Marllon (será inteirado via gravação/WhatsApp) <br>
+**Gravação:** [Clique aqui](https://drive.google.com/file/d/1-uvR5O7Jet8C2CjM-QgOxvPdVmqGo0fz/view?usp=drive_link)
 ---
 
 ## 1. Frequência e Duração das Reuniões

@@ -2,8 +2,8 @@
 **Data:** 03/04/2025  
 **Horário de Início:** 21:00  
 **Duração:** 1 hora e 14 minutos  
-**Participantes:** Alana Gabriele Amorim Silva, Danielle Rodrigues Silva, Davi Rodrigues da Rocha, Felipe de Sousa Coelho, Jésus Gabriel, Leandro Almeida Rocha Santos, Lucas Heler Lopes, Marllon Fausto Cardoso, Mateus Cavalcante de Sousa e Renan Araújo
-
+**Participantes:** Alana Gabriele Amorim Silva, Danielle Rodrigues Silva, Davi Rodrigues da Rocha, Felipe de Sousa Coelho, Jésus Gabriel, Leandro Almeida Rocha Santos, Lucas Heler Lopes, Marllon Fausto Cardoso, Mateus Cavalcante de Sousa e Renan Araújo <br>
+**Gravação:** [Clique aqui]((https://drive.google.com/file/d/1Uk2-ydNinoY3OdSbodL8AdE0Veyf1BZ7/view?usp=drive_link))
 ---
 
 ## 1. Apresentação e Discussão dos Artefatos

@@ -3,7 +3,7 @@
 **Horário de Início:** 21:00  
 **Duração:** 2 horas e 5 minutos  
 **Participantes:** Alana Gabriele Amorim Silva, Danielle Rodrigues Silva, Davi Rodrigues da Rocha, Felipe de Sousa Coelho, Jésus Gabriel, Leandro Almeida Rocha Santos, Lucas Heler Lopes, Marilon Fausto Cardoso, Mateus Cavalcante de Sousa e Renan Araújo  
-
+**Gravação:** [Clique aqui](https://drive.google.com/file/d/1bXSyP6oj6hW0H9fN9OwZKOd1k1Fa7Zy0/view?usp=drive_link)
 ---
 
 ## 1. Abertura e Objetivo Geral da Sessão  
