@@ -101,11 +101,6 @@ Isso iniciará um servidor local, geralmente acessível em:
 ```
 http://localhost:3000
 ```
-### 🌐 Outras Formas de Acesso
-O projeto já esteja hospedado, você pode acessá-lo diretamente pelo link:
-```
-link nosso projeto aqui
-```
 
   
 <div align="center">
