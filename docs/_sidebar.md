@@ -6,6 +6,7 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
+        - [1.1.1 Mapping](/Base/1.1.1.Mapping.md)
         - [1.1.2 Sketch](/Base/1.1.2.Sketch.md)
         - [1.1.3 Decide](/Base/1.1.3.Decide.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
