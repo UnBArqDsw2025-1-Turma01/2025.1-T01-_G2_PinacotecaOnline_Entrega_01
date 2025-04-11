@@ -13,3 +13,4 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
         - [1.5.1 Heatmap](/Base/Extra/heatmap.md)
+        - [1.5.2 Quadro de Conhecimentos](/Base/Extra/quadro-de-conhecimentos.md)
