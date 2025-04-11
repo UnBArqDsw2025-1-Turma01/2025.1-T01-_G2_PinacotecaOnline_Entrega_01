@@ -25,13 +25,10 @@ Pinacoteca Online é um projeto em constante evolução, desenvolvido no context
 ## Screenshots da Primeira Entrega
 Abaixo são apresentados exemplos de artefatos produzidos na entrega 01
 ### Mapa Mental
-![Mapa mental](../assets/images/Mapa-mental-Pinacoteca.png)
-
-### RichPicture
-![RichPicture](../assets/images/Rich-Picture-Pinacoteca.png)
+![Mapa mental](https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G2_PinacotecaOnline_Entrega_01/blob/main/docs/assets/images/Mapa-mental-Pinacoteca.png?raw=true)
 
 ### Storyboard
-![Storyboard](../assets/images/StoryBoard.jpg)
+![Storyboard](https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G2_PinacotecaOnline_Entrega_01/blob/main/docs/assets/images/StoryBoard.jpg?raw=true)
 
 ## Há algo a ser executado?
 
