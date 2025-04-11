@@ -9,6 +9,7 @@
       - [1.1.1 Mapping](/Base/1.1.1.Mapping.md)
       - [1.1.2 Sketch](/Base/1.1.2.Sketch.md)
       - [1.1.3 Decide](/Base/1.1.3.Decide.md)
+      - [1.1.4 Prototype](/Base/1.1.4.Prototype.md)
       - [1.1.5 Test](/Base/1.1.5.DesignSprintTestes.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
